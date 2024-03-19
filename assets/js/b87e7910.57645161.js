@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbitlayer=self.webpackChunkbitlayer||[]).push([[2886],{9350:e=>{e.exports=JSON.parse('{"title":"Bitlayer - Use","slug":"/category/bitlayer---use","permalink":"/docs/category/bitlayer---use","navigation":{"previous":{"title":"Testnet Info","permalink":"/docs/build/dev/testnet"},"next":{"title":"Testnet Info","permalink":"/docs/use/testnet"}}}')}}]);
