@@ -5,6 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bitlayer',
+  staticDirectories: ['public', 'static'],
   tagline: 'The 1st Bitcoin security equivalent layer2 solution based on BitVM approach',
   favicon: 'img/bitlayer-favicon.ico',
 
