@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbitlayer=self.webpackChunkbitlayer||[]).push([[2907],{4427:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/https://probiusofficial.github.io/bitlayer/blog/tags/facebook","allTagsPath":"/https://probiusofficial.github.io/bitlayer/blog/tags","count":1,"unlisted":false}')}}]);
