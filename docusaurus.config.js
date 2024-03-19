@@ -56,7 +56,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Bitlayer.Doc',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
