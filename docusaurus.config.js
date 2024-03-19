@@ -10,7 +10,7 @@ const config = {
 
   // Actual Bitlayer production URL
   url: 'https://www.bitlayer.org',
-  baseUrl: '/',
+  baseUrl: 'https://probiusofficial.github.io/bitlayer/',
 
   // Bitlayer GitHub organization and project repository configuration
   organizationName: 'bitlayer-org', // Your GitHub org/user name.
