@@ -4,14 +4,14 @@ Introduce systemd management configs.
 
 ## Hardware
 
-### minimun
+### Minimum
 ```
 8core
 16g
 ssd iops>5k
 ```
 
-### recommended
+### Recommended
 ```
 16core
 32g
