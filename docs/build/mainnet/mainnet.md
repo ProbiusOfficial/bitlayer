@@ -1,2 +1,2 @@
 # mainnet
-The mainnet launch of Bitlayer is scheduled for 5th April.
+The mainnet launch of Bitlayer is scheduled for 5th April.  
