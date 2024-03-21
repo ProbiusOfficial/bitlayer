@@ -1,5 +1,5 @@
 
-# JSON-RPC API METHODS
+# JSON-RPC
 
 Bitlayer provides all json-rpc api methods listed in [Ethereum](https://ethereum.org/developers/docs/apis/json-rpc#json-rpc-methods). 
 
