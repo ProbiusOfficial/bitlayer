@@ -26,5 +26,11 @@ traceaction option can enable/disable [the custom json-rpc methods](./json-rpc.m
 
 ## Deployment
 
-please refer [deployment](./deploy.md)
+Deployment
+- [Hardware](https://docs.bitlayer.org/build/dev/deploy/#hardware)
+  - [Mininum](https://docs.bitlayer.org/build/dev/deploy/#minimun)
+  - [Recommended](https://docs.bitlayer.org/build/dev/deploy/#recommended)
+  - [Network & Port](https://docs.bitlayer.org/build/dev/deploy/#networkport)
+- [Chain Node](https://docs.bitlayer.org/build/dev/deploy/#chain-node)
+- [Start Bash](https://docs.bitlayer.org/build/dev/deploy/#start-bash)
 
