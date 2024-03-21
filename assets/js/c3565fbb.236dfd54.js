@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbitlayer=self.webpackChunkbitlayer||[]).push([[7653],{6226:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/bitlayer/blog/tags/hola","allTagsPath":"/bitlayer/blog/tags","count":1,"unlisted":false}')}}]);
